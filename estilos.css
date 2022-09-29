@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+}
+.imagen{
+    text-align: right;
+}
+.contenido-centro{
+    display: flex;
+    flex-direction: row;
+    
+}
+body{
+background-color: darkslategrey;
+}
+.foto{
+    text-align: right;
+}
